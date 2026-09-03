@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Java / Maven
+target/
+*.class
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Docker
+*.env
+
+# Logs
+*.log
